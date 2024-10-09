@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+}
+.card {
+  background-color: #06aeae;
+  width: 20%;
+  height: 20rem;
+  padding: 50px;
+}
+#inputFild {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+#submitBtn {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
